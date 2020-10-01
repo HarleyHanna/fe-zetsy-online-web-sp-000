@@ -39,7 +39,7 @@ body {
 
 .copy {
   font-size: .8em;
-  align-content: right;
+  text-align: right;
 }
 
 h1 {
